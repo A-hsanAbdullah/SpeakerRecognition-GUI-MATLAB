@@ -19,7 +19,7 @@ This project is a **MATLAB App Designer GUI** for real-time speaker identificati
 - 🧪 Speaker verification and accuracy evaluation
 
 ## 🖼️ Sample Output (Screenshot)
-![GUI Screenshot](18e7fb57-ec7d-4140-b134-1533877418a6.png)
+[![GUI Screenshot](18e7fb57-ec7d-4140-b134-1533877418a6.png)](https://github.com/A-hsanAbdullah/SpeakerRecognition-GUI-MATLAB/blob/main/Screenshot%202025-07-07%20004919.png)
 
 ## 🛠 Technologies Used
 - MATLAB App Designer (GUI)
